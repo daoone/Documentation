@@ -11,12 +11,12 @@
   - [去中心化协作](#collaboration)
   - [兴趣共同体和利益共同体](#community-of-interests)
 - [账户](#accounts)
-  - [成员](#people)
-    - [自由人](#person)
-    - [社群](#group)
-  - [事务](#things)
-    - [项目](#project)
-    - [任务](#task)
+  - [成员](#people)
+    - [自由人](#person)
+    - [社群](#group)
+  - [事务](#things)
+    - [项目](#project)
+    - [任务](#task)
 
 
 

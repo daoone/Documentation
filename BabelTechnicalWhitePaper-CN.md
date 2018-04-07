@@ -5,10 +5,19 @@
 
 - [背景](#background)
 - [分布式自治社区的要求](#requirements-for-distributed-autonomous-organization) 
-  - [快速启动](#1)
-  - [低信任成本招募](#2)
-  - [去中心化协作](#3)
-  - [兴趣共同体变成利益共同体](#4)
+  - [快速启动](#create)
+  - [透明互信的资金管理](#finance)
+  - [低信任成本的人员招募](#recruit)
+  - [去中心化协作](#collaboration)
+  - [兴趣共同体和利益共同体](#community-of-interests)
+- [账户](#accounts)
+  - [成员](#people)
+    - [自由人](#person)
+    - [社群](#group)
+  - [事务](#things)
+    - [项目](#project)
+    - [任务](#task)
+
 
 
 # 背景

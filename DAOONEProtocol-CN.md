@@ -33,7 +33,6 @@ DAOONE协议在EOS.io基础之上，重定义“账户”，给账户体系制�
 
 匿名声明：在签名以及出示声明的过程中，隐藏声明持有者的信息。
 
-
 ## 分布式事务协议
 DAOONE协议基于EOS.io定义了分布式事务协议（Distributed Transaction Protocol，简称DTP）。在互联网初期，电子邮件（SMTP）的出现大大提高了很多组织与企业的效率，电子邮件是互联网初期非常重要的应用。在区块链时代的初期，区块链技术的重要的应用，一定是来自于改变生产关系的协议，因此，DAOONE网络定义了“分布式事务协议”，为发布任务、划分任务、任务完结、任务组织管理、奖励池管理等制定一套标准协议，让协作变得极其简单，让声誉计算更精准。
 
@@ -46,4 +45,4 @@ DAOONE协议基于EOS.io定义了分布式事务协议（Distributed Transaction
 
 
 
-撰写人：Martin、吴六木、屏风、牛排、Kman、Allen、大宝、魏然、景龙、Max、andyge、Nina、Joel
+# 撰写人：Martin、吴六木、屏风、牛排、Kman、Allen、大宝、魏然、景龙、Max、andyge、Nina、Joel

@@ -5,7 +5,7 @@
 
 - [背景](#background)
 - [分布式自治社区的要求](#requirements-for-distributed-autonomous-organization) 
-  - [项目快速启动](#create)
+  - [项目快速启动](#create)
   - [透明互信的资金管理](#finance)
   - [低信任成本的人员招募](#recruit)
   - [去中心化协作](#collaboration)
